@@ -1,1 +1,2 @@
-This is my first ssh git project(b2 changes for merge conflict)
+
+This is my first ssh git project(merge conflict b1 changes +b2 changes for merge conflict)
